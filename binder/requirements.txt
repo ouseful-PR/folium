@@ -1,0 +1,6 @@
+.
+matplotlib
+geopandas
+descartes
+scipy
+cartopy
