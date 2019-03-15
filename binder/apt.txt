@@ -1,1 +1,6 @@
 python3-rtree
+
+#cartopy
+libgeos-dev
+libproj-dev
+proj-bin
